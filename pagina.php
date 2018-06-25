@@ -1,8 +1,9 @@
 <html>
     <head>
-        
+     
+
     </head>
     <body>
-      BEM VINDOS  
+        <script>alert("Logado com Sucesso!")</script>  
     </body>
 </html>
